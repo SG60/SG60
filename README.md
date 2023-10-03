@@ -1,8 +1,8 @@
 <div align="center">
 
+Programmer,
 Composer,
 Pianist,
-Electronic Musician,
-Programmer
+and Electronic Musician
 
 </div>
